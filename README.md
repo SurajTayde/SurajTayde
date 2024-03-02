@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">Hey 👋 I'm Suraj Tayde From Nagpur  </h1>
+<h1 align="center"> 👋Hey, I'm Suraj Tayde From Nagpur  </h1>
 
 ###
 
@@ -31,13 +31,15 @@
 
 ###
 
-<p align="left"> *🚀*Crafting Code Dreams into Reality!*🚀*<br><br>
- - 🌟 Skilled in <b>Java, Python, Fullstack </b>and eager to embrace new technologies.<br>
- - 👋 Final year MCA student at G.H Raisoni University<br>
- - 💡 Navigating the algorithmic universe on<b> HackerRank, LeetCode, CodeShafe.</b><br>
- - 🎨 Crafting elegant solutions and building digital wonders is my forte.<br>
- - 🔍 Let's build something extraordinary together! <br><br>
-      <b> #CodeEnthusiast   #ProblemSolver    #FutureDeveloper</b></p>
+<p align="left">
+  *🚀*Crafting Code Dreams into Reality!*🚀*<br><br>
+  - 🌟 Skilled in <b>Java, Python, Fullstack </b>and eager to embrace new technologies.<br>
+  - 👋 Final year MCA student at G.H Raisoni University<br>
+  - 💡 Navigating the algorithmic universe on<b> HackerRank, LeetCode, CodeShafe.</b><br>
+  - 🎨 Crafting elegant solutions and building digital wonders is my forte.<br>
+  - 🔍 Let's build something extraordinary together! <br><br>
+  <b>&nbsp;   #CodeEnthusiast &nbsp;&nbsp;&nbsp;      #ProblemSolver  &nbsp;&nbsp;&nbsp;    #FutureDeveloper</b>
+</p>
 
 ###
 
@@ -112,11 +114,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=surajtayde&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=SurajTayde&theme=burnt-neon&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/surajtayde/surajtayde/output/snake.svg" alt="Snake animation" />
+</div>
 
-###
