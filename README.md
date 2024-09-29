@@ -34,7 +34,6 @@
 <p align="left">
   *🚀*Crafting Code Dreams into Reality!*🚀*<br><br>
   - 🌟 Skilled in <b>Java, Python, Fullstack </b>and eager to embrace new technologies.<br>
-  - 👋 Final year MCA student at G.H Raisoni University<br>
   - 💡 Navigating the algorithmic universe on<b> HackerRank, LeetCode, CodeShafe.</b><br>
   - 🎨 Crafting elegant solutions and building digital wonders is my forte.<br>
   - 🔍 Let's build something extraordinary together! <br><br>
